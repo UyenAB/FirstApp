@@ -1,4 +1,4 @@
 # My Trip Journal App
-I want to build my first app 
+My first app on iOS
 #### This is a heading!
 
